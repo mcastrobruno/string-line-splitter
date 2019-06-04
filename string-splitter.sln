@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "splitter", "src\splitter\splitter.csproj", "{85878347-0E5F-4B57-AC5B-39DC77D4815A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Splitter", "src\splitter\Splitter.csproj", "{85878347-0E5F-4B57-AC5B-39DC77D4815A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "splitter.test", "test\splitter.test\splitter.test.csproj", "{3F54146D-7C9D-46A0-A000-736AAB46B62F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Splitter.Test", "test\splitter.test\Splitter.Test.csproj", "{3F54146D-7C9D-46A0-A000-736AAB46B62F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "splitter-sample", "sample\splitter-sample\splitter-sample.csproj", "{2AD0646D-6F05-44D5-B468-25EF97643506}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,18 @@ Global
 		{3F54146D-7C9D-46A0-A000-736AAB46B62F}.Release|x64.Build.0 = Release|Any CPU
 		{3F54146D-7C9D-46A0-A000-736AAB46B62F}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F54146D-7C9D-46A0-A000-736AAB46B62F}.Release|x86.Build.0 = Release|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Debug|x64.Build.0 = Debug|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Debug|x86.Build.0 = Debug|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Release|x64.ActiveCfg = Release|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Release|x64.Build.0 = Release|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Release|x86.ActiveCfg = Release|Any CPU
+		{2AD0646D-6F05-44D5-B468-25EF97643506}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

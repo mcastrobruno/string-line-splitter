@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace splitter.test
+namespace Mcastrobruno.Splitter.test
 {
     public class UnitTest1
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace splitter
+namespace Mcastrobruno.Splitter
 {
     public class StringSplitter
     {
