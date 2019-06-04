@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard1.2</TargetFramework>
     <PackageId>string-splitter</PackageId>
     <Authors>Bruno Castro</Authors>
     <Company></Company>
@@ -9,6 +9,12 @@
     <Description>This package helps split strings into lines according to maximum length.</Description>
     <RootNamespace>Mcastrobruno.Splitter</RootNamespace>
     <AssemblyName>Mcastrobruno.Splitter</AssemblyName>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.1.2</AssemblyVersion>
+    <PackageProjectUrl>https://github.com/mcastrobruno/string-line-splitter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mcastrobruno/string-line-splitter</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <FileVersion>1.0.1.2</FileVersion>
   </PropertyGroup>
 
 </Project>
