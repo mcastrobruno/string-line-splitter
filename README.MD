@@ -1,4 +1,4 @@
-![Nuget](https://img.shields.io/nuget/v/string-splitter.svg)
+[![Nuget](https://img.shields.io/nuget/v/string-splitter.svg)](https://www.nuget.org/packages/string-splitter/)
 
 ## String line splitter
 
