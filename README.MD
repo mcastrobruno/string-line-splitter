@@ -5,11 +5,11 @@
 #### Instalation
 ##### Package Manager
 ```
-Install-Package string-splitter -Version 1.0.0
+Install-Package string-splitter -Version 1.0.2
 ```
 ##### dotnet CLI
 ```
-dotnet add package string-splitter --version 1.0.0
+dotnet add package string-splitter --version 1.0.2
 ```
 
 #### Usage
