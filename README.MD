@@ -1,3 +1,5 @@
+![Nuget](https://img.shields.io/nuget/v/string-splitter.svg)
+
 ## String line splitter
 
 #### Instalation
